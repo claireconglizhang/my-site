@@ -1,0 +1,27 @@
+---
+title: "Congli (Claire) Zhang"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css, echo=FALSE}
+p {
+  font-size: 21px;
+}
+```
+
+Hello, welcome to my website. 
+
+I am currently a doctoral candidate at the University of Oregon, majoring in Quantitative Research Methods in Education and specialized in Educational Data Science. I am professionally proficient in English and Chinese. My best programming language is R. 
+
+As an educational researcher, I am interested in the causal impacts of school-, principal-, and teacher-level factors on student near- and long-term outcomes. My dissertation is focused on teacher effects, in which I analyze a nationally representative, longitudinal data from Chinese middle schools to examine whether and to what extent teacher human capital characteristics, advisor-advisee relationship, and classroom teacher-student relationship impact student academic performance. 
+
+I am passionate about applying my knowledge and skills in quantitative methods and causal inference to education and social sciences research, with the goal to help policy makers, researchers, and educators understand what makes a good teacher, principal, and school, and how to improve the quality of public education. 
+
+I will be graduating in June, 2023 and am currently on job market looking for academic positions in universities as well as applied analyst jobs in education research organizations. 
+
+Learn more about me via my [vita](./docs/Zhang_CV.pdf) and most recent research projects on this site.
