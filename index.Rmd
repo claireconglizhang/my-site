@@ -16,11 +16,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{css, echo=FALSE}
 p {
-  font-size: 21px;
+  font-size: 19px;
 }
 ```
 
-### *About me*
+#### *About me*
 
 Hello, welcome to my website. 
 
@@ -32,10 +32,10 @@ I am passionate about applying my knowledge and skills in quantitative methods a
 
 I will be graduating in June, 2023 and am currently on job market looking for academic positions in universities as well as applied analyst jobs in education research organizations. 
 
-### *My CV*
+#### *My CV*
 
 Learn more about me via my [vita](./docs/Zhang_CV.pdf).
 
-### *My research*
+#### *My research*
 
 Check out my most recent [research projects](./docs/Zhang_writing.pdf).
