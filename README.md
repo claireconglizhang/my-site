@@ -1,4 +1,4 @@
-Hello, welcome to my personal website. Check the content out via https://claireconglizhang.github.io/my-site/ or https://congliclairezhang.com
+Hello, welcome to my personal website. Check the content out via https://claireconglizhang.github.io/my-site/ or http://congliclairezhang.com
 
 This readme note is for website building only.
 
