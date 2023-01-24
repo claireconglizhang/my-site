@@ -5,10 +5,6 @@ output:
   html_document:
     css: "splendor.min.css"
 ---
-<style>
-    body { background-color: ivory1; }
-    pre, pre:not([class]) { background-color: red; }
-</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -19,18 +15,17 @@ p {
   font-size: 19px;
 }
 ```
-
 #### *About me*
 
 Hello, welcome to my website. 
 
-I am currently a doctoral candidate at the University of Oregon, majoring in Quantitative Research Methods in Education and specialized in Educational Data Science. I am professionally proficient in English and Chinese. My best programming language is R. 
+I am currently a doctoral candidate at the University of Oregon, majoring in Quantitative Research Methods in Education and specialized in Educational Data Science. My best programming language is R. 
 
-As an educational researcher, I am interested in the causal impacts of school-, principal-, and teacher-level factors on student near- and long-term outcomes. My dissertation is focused on teacher effects, in which I analyze a nationally representative, longitudinal data from Chinese middle schools to examine whether and to what extent teacher human capital characteristics, advisor-advisee relationship, and classroom teacher-student relationship impact student academic performance. 
+I obtained systematic training in quantitative research methods and educational data science in my doctoral program. My research competencies include experimental and quasi-experimental research design, generalized linear models, multilevel models, structural equation modeling, advanced measurement and assessment methods, implementation science, policy analysis, program evaluation, meta-analysis, scholarly writing, and grant writing. Beyond my program, I took courses from the Economics department to add causal inference methods to my toolkit. I also finished a sequence of four R courses and obtained a specialization in educational data science. Importantly, I kept honing my skills by applying my expertise to a variety of research projects. Both independently and in collaboration with my co-authors, I led several research projects and presented my papers in multiple national conferences such as AERA, AEFP, and SREE.
 
-I am passionate about applying my knowledge and skills in quantitative methods and causal inference to education and social sciences research, with the goal to help policy makers, researchers, and educators understand what makes a good teacher, principal, and school, and how to improve the quality of public education. 
+As an applied researcher passionate about school effectiveness and improvement, my overarching research interest is to unfold the causal impacts of various school-, teacher-, family-level factors on student performance as well as non-academic outcomes in P-12 education. My dissertation, for example, consists of three separate articles investigating the causal impacts of teacher human capital characteristics, advisor-advisee relationships, and classroom teacher-student relationships on student performance and attitude. Another ongoing study is focusing on gender gaps and causal evidence on teacher factors that bridge these gaps. These studies contribute to a rigorous research body that identify what bring meaningful change to school outcomes, and more importantly, can be directly translated into practice, therefore have critical implications to policymakers, school leaders, and importantly, teachers.
 
-I will be graduating in June, 2023 and am currently on job market looking for academic positions in universities as well as applied analyst jobs in education research organizations. 
+I will be graduating in June, 2023 and am currently on job market looking for academic positions in universities as well as applied analyst jobs in educational research organizations. Please find more about my qualifications and achievements in my CV below and reach out to me at congliclairezhang@gmail.com.
 
 #### *My CV*
 
@@ -38,4 +33,5 @@ Learn more about me via my [vita](./docs/Zhang_CV.pdf).
 
 #### *My research*
 
-Check out my most recent [research projects](./docs/Zhang_writing.pdf).
+Check out my most recent [research project](./docs/Zhang_writing.pdf): *Whether Having Advisor-Advisee Relationship with Content Teachers Improve Student Academic Outcomes? Causal Evidence from Chinese Junior High Schools.*
+
