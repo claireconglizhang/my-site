@@ -10,7 +10,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 <style>
-     body { background-color: #f5f1eb; }
+     body { background-color: #f2e6dc; }
      pre, pre:not([class]) { background-color: red; }
 </style>
 ```{css, echo=FALSE}
