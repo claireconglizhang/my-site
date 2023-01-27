@@ -1,0 +1,63 @@
+---
+title: "Untitled"
+output: 
+  powerpoint_presentation:
+    toc: true
+    toc_depth: 3
+date: '2023-01-24'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
+## Slides structure
+
+---
+
+Slide with no header
+
+---
+:::::: {.columns}
+::: {.column}
+Content of the left column.
+:::
+
+::: {.column}
+Content of the right column.
+:::
+::::::
+
+## Tabset structure {.tabset}
+
+### By Product
+
+(tab content)
+
+### By Region
+
+(tab content)
