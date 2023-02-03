@@ -14,6 +14,7 @@ p {
 }
 ```
 
+Disclaimer: although they add to our understanding, online materials may contain inaccurate information, so best way to learn ML is enrolling a course (it has been a one-term course for me) and learning from professors and experts.
 
 ### For Beginners (Clear and Simple)
 
