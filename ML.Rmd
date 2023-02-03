@@ -1,0 +1,22 @@
+---
+title: "Multiple Regression Learning Materials"
+output: html_document
+date: '2023-02-03'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo=FALSE}
+p {
+  font-size: 19px;
+}
+```
+
+
+### For Beginners (Clear and Simple)
+
+[A very brief introduction of the concepts](https://www.investopedia.com/terms/m/mlr.asp)
+
+[A cheatsheet of interpretation of the ML model parameters](https://home.csulb.edu/~msaintg/ppa696/696regmx.htm)
