@@ -36,6 +36,6 @@ Learn more about me via my [vita](./docs/Zhang_CV.pdf).
 
 #### *My research*
 
-Check out my most recent [research project](./docs/Zhang_writing.pdf): *Whether Having Advisor-Advisee Relationship with Content Teachers Improve Student Academic Outcomes? Causal Evidence from Chinese Junior High Schools.*
+Check out my most recent [research paper](./docs/Zhang_writing.pdf): *Whether Having Advisor-Advisee Relationship with Content Teachers Improve Student Academic Outcomes? Causal Evidence from Chinese Junior High Schools.*
 
-My [dissertation proposal](./1_presentation/proposal/Zhang_proposal.html): *Teacher Characteristics, Teacher-Student Relationship, and Student Academic Outcomes in Chinese Junior High Schools.*
+My dissertation proposal: *Teacher Characteristics, Teacher-Student Relationship, and Student Academic Outcomes in Chinese Junior High Schools.*
