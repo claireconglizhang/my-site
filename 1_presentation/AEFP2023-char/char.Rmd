@@ -241,6 +241,9 @@ background-size: cover
 
 *Contact: congliclairezhang@gmail.com*
 
+*PS: I'm a doctoral candidate currently on job market. I major in Quantitative Research Methods in Education and specialized in Educational Data Science. My primary programming language is R. Feel free to check out my website congliclairezhang.com and contact me with potential job opportunities. Thanks.*
+
+
 
 
 
