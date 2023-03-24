@@ -6,7 +6,7 @@
     <meta name="author" content="Congli Zhang and Anwesha Guha" />
     <meta name="author" content="College of Education, University of Oregon" />
     <script src="libs/header-attrs/header-attrs.js"></script>
-    <script type="application/json" id="xaringanExtra-editable-docid">{"id":"cad6e19c8e23487b93099f932cda36b0","expires":1}</script>
+    <script type="application/json" id="xaringanExtra-editable-docid">{"id":"d7b594abf4ad416f9f80c70f8d2627f9","expires":1}</script>
     <script src="libs/himalaya/himalaya.js"></script>
     <script src="libs/js-cookie/js.cookie.js"></script>
     <link href="libs/editable/editable.css" rel="stylesheet" />
@@ -60,14 +60,15 @@ background-size: cover
 
 Teacher human capital characteristics (such as .highlighter01[education background] and .highlighter01[teaching experience]) are widely used in human resources decisions across the world
 
-Qualities of human capital characteristics:
-
+.highlighter03[Qualities of human capital characteristics:
  - objective, straightforward, and easily accessible in teacher's profile
  - can be clearly categorized by certain policy thresholds
  - practically and computationally cheaper than other teacher quality measures 
-    - e.g., value-added to student performance, classroom observations, principal/student/parent ratings, etc.
+    - e.g., value-added to student performance, classroom observations, principal/student/parent ratings, etc.]
 
-Characteristics-based human resources policies assume that teachers with stronger human capital profile are better teachers, which is unfortunately .highlighter02[NOT] supported by scientific research (Hanushek, 2011).
+Characteristics-based human resources policies assume that teachers with stronger human capital profile are better teachers, 
+
+ - which is unfortunately .highlighter02[NOT] supported by scientific research (Hanushek, 2011).
 
 ---
 ## Literature review
@@ -87,47 +88,49 @@ Characteristics-based human resources policies assume that teachers with stronge
 
 2. Whether and to what extent teacher .highlighter01[teaching experience] affects student academic performance and self-concept?
 
-Why **self-concept** (student's perception of themselves in their performance on a given subject) as outcome:
-
+.highlighter03[Why *self-concept* (student's perception of themselves in their performance on a given subject) as outcome:
  - It serves as a robustness check of score outcome based on the substantial correlations between student achievement and corresponding self-concept (Marsh et al., 2001; Möller et al., 2020)
  - More importantly, it has own research values in capturing the motivational dimension of student learning,
-   - a dimension critical to performance, interest, educational decisions, and longer-term academic outcomes
+   - a dimension critical to performance, interest, educational decisions, and longer-term academic outcomes]
 
 ---
-## Quasi-experimental research design
+## Overview of quasi-experimental research design
 
 Population of interest: 
  - Chinese public junior high school (grades 7-9) students and their Chinese, English, and math (core content) teachers 
 
-Natural experiment in Chinese public junior high schools:
- - .highlighter01[Random assignment of teachers to students]
-    - allows us to identify exogenous variation in teacher characteristics then effectively address omitted variable bias 
- - .highlighter01[Between-teacher comparison]
-    - allows us to add novel, between-teacher evidence of teacher effects to the existing literature where the leading method is teacher value-added (relying on within-teacher variation)
+I leverage a .highlighter02[natural experiment] where the national trend of random teacher-student assignment 
+ - allows me to identify exogenous variation in teacher characteristics then effectively address omitted variable bias in my estimation
+    
+I also take advantage of the .highlighter02[between-teacher comparison] to
+
+ - add novel, between-teacher evidence of teacher effects to the existing literature where the leading method is teacher value-added (relying on within-teacher variation)
+    - which is particularly informative in time of hire
 
 ---
-## Natural experiment background
+## Background: random teacher-student assignment trend
 
-Random teacher-student assignment trend in compulsory education (grades 1-9):
- 
  - Stimulated by the 2006 Compulsory Education Law 
     - which called off student tracking and eliminated national-, province-, and district-level academic exams below grade 9
  
  - Captured by the nationally representative data (CEPS, China Education Panel Survey):
     - 83% of the randomly sampled schools across the nation reported that they randomly assigned teachers to students upon students’ entry to junior high school
     
- - Confirmed by the covariate balance check in our analysis
+ - Confirmed by the covariate balance check in my analysis
  
 ---
-## School settings (two major differences compared to US)
+## Background: school settings
+(relavent to this paper, two major differences compared to US)
 
 Homeroom setting:
 
  - Upon entry to school, students are grouped into homerooms, put on a shared homeroom schedule, and assigned a group of subject teachers who rotate to the homeroom to teach 
+ - Creating a natural comparison condition between teachers who teach different homerooms
  
 Teaching cycle:
  
- - Initially assigned teachers follow homerooms rising to higher grade levels (from grade 7 to 9)     - to gain familiarity of the full junior high curricula and teaching materials
+ - Initially assigned teachers follow homerooms rising to higher grades (from 7 to 9)     
+   - to gain familiarity of the full junior high curricula and teaching materials
    - for Chinese, English, and math teachers, common measure of experience is a three-year "teaching cycle" 
    - teachers within the first teaching cycle are considered novice teachers
    
@@ -138,16 +141,16 @@ background-size: cover
 # DATA AND MEASURES
 
 ---
-## China Education Panel Survey
+## China Education Panel Survey (CEPS)
 
 China’s first nationally representative, longitudinal survey of junior high school students:
- - .highlighter01[Baseline: 2013-14]
+ - Baseline: 2013-14
   - A stratified, multi-stage sampling scheme to randomly select 112 junior high schools from across the country, then randomly selected two 7th grade and two 9th grade homerooms from each school
- - .highlighter01[Second wave: 2014-15]
-  - Only the initial 7th grade students were successfully followed up (now in their 8th grade); they will be our primary focus because of the availability of two-wave data
+ - Second wave: 2014-15
+  - Only the initial 7th grade students were successfully followed up (now in their 8th grade); they will be my primary focus because of the availability of two-wave data
 
 Sample restriction to preserve internal validity:
-  - Limited to 63 (56%) schools based on three criteria: .highlighter01[public school, reported random assignment, and eliminated within-school sorting] (i.e., excluding schools with at least one student changing homeroom)
+  - Limited to 63 (56%) schools based on three criteria: .highlighter02[public school, reported random assignment, and eliminated within-school sorting] (i.e., excluding schools with at least one student changing homeroom)
 
 ---
 ## Key variables and analytic samples 
@@ -169,10 +172,11 @@ background-size: cover
 ---
 ## Model specifications
 
-We fit a linear model using ordinary least squares (OLS) regression, separately for each of the three subjects:
+I fit a linear model using ordinary least squares (OLS) regression, separately for each of the three subjects:
 
 `$$OUT_{ijst} = \beta_0 + \beta_1(CHAR_{jt}) + \beta_2X_{it-1} + \beta_3H_{jt-1} + \beta_4J_{jt-1} + \theta_s + \epsilon_{ijst}$$`
-
+.highlighter03[
+ -
  - `\(OUT_{ijst}\)` is the standardized score or self-concept of student `\(i\)`, taught by teacher `\(j\)` (i.e., homeroom `\(j\)`), in school `\(s\)`, in year `\(t\)` (wave 2)
  - `\(CHAR_{jt}\)` is the education or experience characteristic of teacher `\(j\)` in year `\(t\)`
  - `\(X_{it-1}\)` is a vector of student `\(i\)`'s Chinese, English, math, and cognitive test scores and demographic characteristics in year `\(t-1\)` (baseline)
@@ -180,6 +184,7 @@ We fit a linear model using ordinary least squares (OLS) regression, separately 
  - `\(J_{jt-1}\)` is a vector of teacher `\(j\)`'s characteristics in year `\(t-1\)` (baseline)
  - `\(\theta_s\)` is school fixed-effects
  - Standard errors are clustered at the school level to account for the within-school correlations among residuals, `\(\epsilon_{ijst}\)`
+ - `\(\beta_1\)` is the coefficient of interest]
  
 ---
 class: center, middle
@@ -233,16 +238,17 @@ background-size: cover
 .highlighter01[Contributions]:
 
  - Causal, between-teacher evidence of teacher human capital effects
- - Findings in Chinese junior high schools largely confirm those in the western (e.g., US) education context:
-   - Education background of English teacher does not matter; Chinese teacher's graduate degree or major seem to positively impact student learning but mostly on motivational aspect; math teacher's higher degree negatively affect student performance
-   - One more year in teaching experience does not have causal impact on student learning. The most effective teachers are early career teachers
+ - Findings on Chinese certified teachers largely confirm those in the western (e.g., US) education context:
+   - Education background of English teacher does not matter; Chinese teacher's graduate degree and major seem to positively impact student learning but mainly on motivational aspect; math teacher's degree beyond bachelor negatively affects student performance
+   - One extra year in teaching experience does not have causal impact on student learning. The most effective teachers are early career teachers, which is particularly true for English and math
 
 .highlighter01[Policy implications] - "Education, Experience, or .highlighter02[More]?"
 
  - Calling for evidence-based, more comprehensive human resources policies looking at teacher attributes beyond human capital characteristics, some examples:
-    - Teacher-student identity match (another paper tomorrow)
+    - Teacher-student identity match (another paper tomorrow presented by Anwesha Guha)
     - Teacher social-emotional competencies
     - Culturally responsive teaching
+    - .highlighter02[and more...]
 ---
 class: center, middle
 background-image: url(back02.png)
@@ -251,7 +257,7 @@ background-size: cover
 
 *Contact: congliclairezhang@gmail.com*
 
-*PS: I'm a doctoral candidate currently on job market. I major in Quantitative Research Methods in Education and specialized in Educational Data Science. My primary programming language is R. Feel free to check out my website congliclairezhang.com and contact me with potential job opportunities. Thanks.*
+.highlighter03[About me: I'm a doctoral candidate currently on job market. I major in Quantitative Research Methods in Education and specialized in Educational Data Science. My primary programming language is R. Feel free to check out my website congliclairezhang.com and contact me with potential job opportunities. Thanks.]
 
 
 
