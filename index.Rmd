@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </style>
 ```{css, echo=FALSE}
 p {
-  font-size: 19px;
+  font-size: 17px;
 }
 ```
 #### *About me*
