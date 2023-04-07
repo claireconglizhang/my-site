@@ -1,11 +1,9 @@
 ---
 title: "Congli (Claire) Zhang"
-
 output: 
   html_document:
     css: "splendor.min.css"
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -18,6 +16,7 @@ p {
   font-size: 17px;
 }
 ```
+
 #### *About me*
 
 Hello, welcome to my website. 
@@ -37,7 +36,7 @@ Learn more about me via my [vita](./docs/Zhang_CV.pdf).
 
 #### *My research*
 
-Most recent research paper (2nd chapter of my dissertation): [*Whether Having Advisor-Advisee Relationship with Content Teachers Improve Student Academic Outcomes? Causal Evidence from Chinese Junior High Schools.*](./docs/Zhang_writing.pdf)
+Most recent research paper (2nd chapter of my dissertation): *Whether Having Advisor-Advisee Relationship with Content Teachers Improve Student Academic Outcomes? Causal Evidence from Chinese Junior High Schools.*
 
 Most recent conference paper presentations (AEFP 2023, Denver): 1. [*Education, Experience, or More? Causal Impacts of Teacher Human Capital on Student Learning in Chinese Junior High Schools*](./1_presentation/AEFP2023-char/char.html), and 2. *Investigating the Causal Impact of Teacher Gender Matching on Student Learning*.
 

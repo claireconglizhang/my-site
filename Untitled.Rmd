@@ -1,0 +1,43 @@
+---
+title: "张聪莉个人主页"
+description: |
+  教育学博士，俄勒冈大学教育学院（US NEWS 2023 最佳教育学院排名第14）
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+     body { background-color: #cfced6; }
+     pre, pre:not([class]) { background-color: red; }
+</style>
+```{css, echo=FALSE}
+p {
+  font-size: 15px;
+}
+
+p.small {
+  line-height: 0.8;
+}
+
+p.big {
+  line-height: 1.0;
+}
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
