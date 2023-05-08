@@ -31,8 +31,12 @@ My current research scholarship centers on the causal impacts of various school-
 
 Please learn more about my qualifications and achievements via [my CV](./docs/Zhang_CV.pdf) and contact me at congliclairezhang@gmail.com with job opportunities or any questions.
 
-#### *Research Update*
+#### *Most recent research update*
 
-Most recent research paper (2nd chapter of my dissertation): *Teacher-Student Relationships, Student Academic Outcomes, and the Role of Teacher-Advisors in Chinese Junior High Schools*.
+Job talk: [*Understanding Teacger Effects on Student Outcomes: Methods Matter*](./1_presentation/job-talk/job-talk.html)
 
-Most recent conference paper presentations (AEFP 2023, Denver): 1. [*Education, Experience, or More? Causal Impacts of Teacher Human Capital on Student Learning in Chinese Junior High Schools*](./1_presentation/AEFP2023-char/char.html), and 2. *Investigating the Causal Impact of Teacher Gender Matching on Student Learning*.
+Teaching session: [*Relationship Between Two Categorical Variables*](./1_presentation/teaching-example/teaching.html)
+
+Job market paper manuscript: [*Teacher-Student Relationships, Student Academic Outcomes, and the Role of Teacher-Advisors in Chinese Junior High Schools*](docs/Zhang_writing.pdf).
+
+Conference paper presentations (AEFP 2023, Denver): [*Education, Experience, or More? Causal Impacts of Teacher Human Capital on Student Learning in Chinese Junior High Schools*](./1_presentation/AEFP2023-char/char.html)
