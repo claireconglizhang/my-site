@@ -33,7 +33,7 @@ Please learn more about my qualifications and achievements via [my CV](./docs/Zh
 
 #### *Most recent research update*
 
-Job talk: [*Understanding Teacger Effects on Student Outcomes: Methods Matter*](./1_presentation/job-talk/job-talk.html)
+Job talk: [*Understanding Teacher Effects on Student Outcomes: Methods Matter*](./1_presentation/job-talk/job-talk.html)
 
 Teaching session: [*Relationship Between Two Categorical Variables*](./1_presentation/teaching-example/teaching.html)
 
