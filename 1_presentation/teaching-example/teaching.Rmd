@@ -1,8 +1,8 @@
 ---
 title: "Relationship Between Two Categorical Variables"
-subtitle: "Pacific University Forest Grove - May 8, 2023"
 author: 
   - "Congli Zhang"
+  - "Doctoral Candidate"
   - "College of Education, University of Oregon"
 output:
   xaringan::moon_reader:
@@ -159,7 +159,7 @@ chisq.test(df$Drink, df$Health)
 
 Putting the Chi-square testing results into word:
 
-A Chi-square test was conducted to test whether or not there is a significant relationship between drinking and health condition in the population of Oregon adults. The findings indicated that there was a significant relationship between personality type and color preference, $\chi^2$ = 18.611, p < .001.
+"A Chi-square test was conducted to test whether or not there is a significant relationship between drinking and health condition in the population of Oregon adults. The findings indicated that there was a significant relationship between drinking and health condition, $\chi^2$ = 18.611, p < .001." 
 
 ---
 ### Chi-square test assumptions

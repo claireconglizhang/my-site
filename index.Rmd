@@ -17,19 +17,18 @@ p {
 }
 ```
 
-#### *About me*
 
 Hello, welcome to my website. 
 
-I am currently a doctoral candidate at the University of Oregon, majoring in Quantitative Research Methods in Education and specialized in Educational Data Science. I am on track to graduate in June, 2023 and am currently on job market looking for academic positions in universities as well as applied analyst jobs in educational research organizations. 
+I am currently a doctoral candidate at the University of Oregon, ready to graduate in the June of 2023. I'm finishing my Ph.D. in Quantitative Research Methods in Education and have obtained a specialization in Educational Data Science (with R). I also hold a master's degree in Organizational Leadership from Northeastern University (Boston, MA) and a bachelor's degree of Education Studies in Math from Hebei Normal University (Shijiazhuang, Hebei, China).
 
-My research competencies include experimental and quasi-experimental research design, generalized linear models, multilevel models, structural equation modeling, advanced measurement and assessment methods, implementation science, policy analysis, program evaluation, meta-analysis, scholarly writing, and grant writing. Beyond my program, I took courses from the Economics department to add causal inference methods to my toolkit. I also finished a sequence of four R courses and obtained a specialization in educational data science. My best programming language is R. 
+My research competencies include but are not limited to experimental and quasi-experimental research design, generalized linear models, multilevel modeling, structural equation modeling, advanced measurement and assessment methods, program evaluation, policy analysis, implementation science, meta-analysis, scholarly writing, and grant writing. 
 
-I am passionate about education systems change and am aspired to be an applied researcher who bridges the gaps between scientific research and educational policy and practice. I kept honing my research skills by applying my expertise to a variety of research projects. Both independently and in collaboration with my co-authors, I led several research projects and presented my papers in multiple national conferences such as AERA, AEFP, and SREE. 
+I am passionate about education systems change. My career goal is to be an applied researcher who bridges the gaps between scientific research and educational policy and practice, who utilizes the processes and data that lead to the positive outcomes for teachers and students. I have kept honing my research skills by applying my expertise to a variety of research projects. Both independently and in collaboration with my co-authors, I have led several research projects and presented my papers in multiple national conferences such as AERA, AEFP, and SREE. 
 
-My current research scholarship centers on the causal impacts of various school-, teacher-, family-level factors on student performance as well as non-academic outcomes in P-12 education. My dissertation consists of two separate, causal inference studies investigating the impacts of teacher human capital characteristics, advisor-advisee relationships, and classroom teacher-student relationships on student performance and attitude. Another ongoing study is focusing on gender gaps and causal evidence of teacher factors that bridge these gaps. 
+My current research scholarship centers on the causal impacts of school-, teacher-, family-, and student-level factors on student performance as well as non-academic outcomes in P-12 education. My dissertation consists of two separate, causal inference studies investigating the impacts of teacher human capital characteristics, advisor-advisee relationships, and classroom teacher-student relationships on student performance and attitude. Another ongoing study is focusing on gender achievement gaps and causal evidence of teacher factors that bridge these gaps. 
 
-Please learn more about my qualifications and achievements via [my CV](./docs/Zhang_CV.pdf) and contact me at congliclairezhang@gmail.com with job opportunities or any questions.
+Feel free to learn more about my qualifications and achievements via [my CV](./docs/Zhang_CV.pdf) and reach out to me at congliclairezhang@gmail.com. 
 
 #### *Most recent research update*
 
