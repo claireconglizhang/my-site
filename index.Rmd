@@ -1,5 +1,6 @@
 ---
 title: "Congli (Claire) Zhang"
+subtitle: "张聪莉"
 output: 
   html_document:
     css: "splendor.min.css"
@@ -17,6 +18,9 @@ p {
 }
 ```
 
+您好，欢迎来到我的个人网站。
+
+请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。英文简历、学术会议演讲、学术论文等在页末。有合适的工作机会请按照我简历上的联系方式与我沟通。谢谢您的时间。
 
 Hello, welcome to my website. 
 
