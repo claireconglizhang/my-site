@@ -20,7 +20,7 @@ p {
 
 <img src="face.jpeg" style="width: 40%">
 
-您好，欢迎来到我的个人网站。请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。英文简历、学术会议演讲、学术论文等在页末。有合适的工作机会请按照我简历上的联系方式与我沟通。谢谢您的时间。
+您好，欢迎来到我的个人网站。请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。其它如英文简历、学术会议演讲、学术论文等在页末。有合适的工作机会请按照我简历上的联系方式与我沟通。谢谢您的时间。
 
 I graduated from University of Oregon as a Ph.D. in Quantitative Research Methods in Education with a specialization in Educational Data Science (with R) in 2023. I also hold a master's degree in Organizational Leadership from Northeastern University (Boston, MA) and a bachelor's degree of Education Studies in Math from Hebei Normal University (Shijiazhuang, Hebei, China).
 
