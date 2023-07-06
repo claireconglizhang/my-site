@@ -18,23 +18,21 @@ p {
 }
 ```
 
-您好，欢迎来到我的个人网站。
+<img src="face.jpeg" style="width: 40%">
 
-请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。英文简历、学术会议演讲、学术论文等在页末。有合适的工作机会请按照我简历上的联系方式与我沟通。谢谢您的时间。
+您好，欢迎来到我的个人网站。请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。英文简历、学术会议演讲、学术论文等在页末。有合适的工作机会请按照我简历上的联系方式与我沟通。谢谢您的时间。
 
-Hello, welcome to my website. 
-
-I am currently a doctoral candidate at the University of Oregon, ready to graduate in the June of 2023. I'm finishing my Ph.D. in Quantitative Research Methods in Education and have obtained a specialization in Educational Data Science (with R). I also hold a master's degree in Organizational Leadership from Northeastern University (Boston, MA) and a bachelor's degree of Education Studies in Math from Hebei Normal University (Shijiazhuang, Hebei, China).
+I graduated from University of Oregon as a Ph.D. in Quantitative Research Methods in Education with a specialization in Educational Data Science (with R) in 2023. I also hold a master's degree in Organizational Leadership from Northeastern University (Boston, MA) and a bachelor's degree of Education Studies in Math from Hebei Normal University (Shijiazhuang, Hebei, China).
 
 My research competencies include but are not limited to experimental and quasi-experimental research design, generalized linear models, multilevel modeling, structural equation modeling, advanced measurement and assessment methods, program evaluation, policy analysis, implementation science, meta-analysis, scholarly writing, and grant writing. 
 
-I am passionate about education systems change. My career goal is to be an applied researcher who bridges the gaps between scientific research and educational policy and practice, who utilizes the processes and data that lead to the positive outcomes for teachers and students. I have kept honing my research skills by applying my expertise to a variety of research projects. Both independently and in collaboration with my co-authors, I have led several research projects and presented my papers in multiple national conferences such as AERA, AEFP, and SREE. 
+I am passionate about education systems change. My career goal is to be an applied researcher who bridges the gaps between scientific research and educational policy and practice, who utilizes the processes and data that lead to the positive outcomes for teachers and students. I have kept honing my research skills by applying my expertise to a variety of research projects. Both independently and in collaboration with my co-authors, I have led several research projects and presented my papers in multiple national conferences such as [AERA](https://www.aera.net/Events-Meetings/Annual-Meeting), [AEFP](https://aefpweb.org/conference), and [SREE](https://www.sree.org/conferences). 
 
 My current research scholarship centers on the causal impacts of school-, teacher-, family-, and student-level factors on student performance as well as non-academic outcomes in P-12 education. My dissertation consists of two separate, causal inference studies investigating the impacts of teacher human capital characteristics, advisor-advisee relationships, and classroom teacher-student relationships on student performance and attitude. Another ongoing study is focusing on gender achievement gaps and causal evidence of teacher factors that bridge these gaps. 
 
-Feel free to learn more about my qualifications and achievements via [my CV](./docs/Zhang_CV.pdf) and reach out to me at congliclairezhang@gmail.com. 
+Feel free to learn more about me via [my CV](./docs/Zhang_CV.pdf) and reach out to me at congliclairezhang@gmail.com. 
 
-#### *Most recent research update*
+#### *Most recent research*
 
 Job talk: [*Understanding Teacher Effects on Student Outcomes: Methods Matter*](./1_presentation/job-talk/job-talk.html)
 
