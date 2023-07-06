@@ -1,5 +1,5 @@
 ---
-title: "Congli (Claire) Zhang"
+title: "Congli (Claire) Zhang / 张聪莉"
 output: 
   html_document:
     css: "splendor.min.css"
@@ -16,7 +16,7 @@ p {
   font-size: 17px;
 }
 ```
-<img src="face.jpeg" style="width: 40%">
+<img src="face.jpeg" style="width: 30%">
 
 您好，欢迎来到我的个人网站。请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。其它如英文简历、学术会议演讲、学术论文等在页末。有合适的工作机会请按照我简历上的联系方式与我沟通。谢谢您的时间。
 
