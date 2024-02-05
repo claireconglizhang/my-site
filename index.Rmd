@@ -18,24 +18,22 @@ p {
 ```
 <img src="face.jpeg" style="width: 30%">
 
-您好，欢迎来到我的个人网站。请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。其它如英文简历、学术会议演讲、学术论文等在页末。有合适的工作机会请按照我简历上的联系方式与我沟通。谢谢您的时间。
+您好，欢迎来到我的个人网站。请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。其它如英文简历、学术会议演讲、学术论文等在页末。
 
 I am passionate about education systems change. My career goal is an applied researcher who bridges the gaps between scientific research and educational policy and practice, as well as utilizes the processes and data that lead to the positive outcomes for teachers and students. 
 
-I recently graduated from University of Oregon as a Ph.D. in Quantitative Research Methods in Education with a specialization in Educational Data Science (with R). I also hold a master's degree in Organizational Leadership from Northeastern University (Boston, MA) and a bachelor's degree of Education Studies in Math from Hebei Normal University (Shijiazhuang, Hebei, China).
+I recently graduated from University of Oregon as a Ph.D. in Quantitative Research Methods in Education with a specialization in Educational Data Science (with R). I also hold a master's degree in Organizational Leadership from Northeastern University (Boston, MA) and a bachelor's degree of Education Studies in Math from Hebei Normal University (Shijiazhuang, Hebei, China). I am currently a senior statistician at San Francisco Unified School District working on collecting, managing, analyzing, and reporting Multilingual Learners data, as well as disseminating and presenting analysis results to inform decision-makings on program placement, implementation, and evaluation.
 
-My research competencies include but are not limited to experimental and quasi-experimental research design, generalized linear models, multilevel modeling, structural equation modeling, advanced measurement and assessment methods, program evaluation, policy analysis, implementation science, meta-analysis, scholarly writing, and grant writing. I have kept honing my research skills by applying my expertise to a variety of research projects. Both independently and in collaboration with my co-authors, I have led several research projects and presented my papers in multiple national conferences such as [AERA](https://www.aera.net/Events-Meetings/Annual-Meeting), [AEFP](https://aefpweb.org/conference), and [SREE](https://www.sree.org/conferences). 
+My research competencies include but are not limited to experimental and quasi-experimental research design, generalized linear models, multilevel modeling, structural equation modeling, advanced measurement and assessment methods, program evaluation, policy analysis, implementation science, meta-analysis, scholarly writing, and grant writing. 
 
-My current research scholarship centers on the causal impacts of school-, teacher-, family-, and student-level factors on student performance as well as non-academic outcomes in P-12 education. My dissertation consists of two separate, causal inference studies investigating the impacts of teacher human capital characteristics, advisor-advisee relationships, and classroom teacher-student relationships on student performance and attitude. Another ongoing study is focusing on gender achievement gaps and causal evidence of teacher factors that bridge these gaps. 
+I have kept honing my research skills by applying my expertise to a variety of research projects. My current research centers on the causal impacts of school-, teacher-, family-, and student-level factors on student performance as well as non-academic outcomes in P-12 education. My dissertation consists of two separate, causal inference studies investigating the impacts of teacher human capital characteristics, advisor-advisee relationships, and classroom teacher-student relationships on student performance and attitude. Another ongoing study is focusing on gender achievement gaps and causal evidence of teacher factors that bridge these gaps. Both independently and in collaboration with my co-authors, I have led several research projects and presented my papers in multiple national conferences such as [AERA](https://www.aera.net/Events-Meetings/Annual-Meeting), [AEFP](https://aefpweb.org/conference), and [SREE](https://www.sree.org/conferences). 
 
-Feel free to learn more about me via [my CV](./docs/Zhang_CV.pdf) and reach out to me at congliclairezhang@gmail.com. 
+Feel free to learn more about me via [my CV](./docs/Zhang_CV.pdf) and reach out to me at congliclairezhang@gmail.com.
 
-#### *Most recent research*
+Dissertation: [*Teacher Characteristics, Teacher-Student Relationships, and Student Academic Outcomes in Chinese Junior High Schools*](https://www.proquest.com/docview/2842761279)
 
 Job talk: [*Understanding Teacher Effects on Student Outcomes: Methods Matter*](./1_presentation/job-talk/job-talk.html)
 
-Teaching session: [*Relationship Between Two Categorical Variables*](./1_presentation/teaching-example/teaching.html)
-
-Job market paper manuscript: [*Teacher-Student Relationships, Student Academic Outcomes, and the Role of Teacher-Advisors in Chinese Junior High Schools*](docs/Zhang_writing.pdf).
-
 Conference paper presentations (AEFP 2023, Denver): [*Education, Experience, or More? Causal Impacts of Teacher Human Capital on Student Learning in Chinese Junior High Schools*](./1_presentation/AEFP2023-char/char.html)
+
+Teaching session: [*Relationship Between Two Categorical Variables*](./1_presentation/teaching-example/teaching.html)
