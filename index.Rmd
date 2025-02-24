@@ -20,15 +20,15 @@ p {
 
 您好，欢迎来到我的个人网站。请[点此下载](./docs/Zhang_CV_中文.pdf)我的中文简历。其它如英文简历、学术会议演讲、学术论文等在页末。
 
-I am passionate about education systems change. My career goal is an applied researcher who bridges the gaps between scientific research and educational policy and practice, who utilizes the processes and data that lead to the positive outcomes for teachers and students. 
+Coming from an educator, teacher, and school administrator background, I am passionate about education systems change. I am dedicated to my role as an applied researcher who bridges the gaps between scientific research and educational policy and practice and utilizes the processes and data that lead to the positive outcomes for teachers and students.
 
-In 2023, I graduated from University of Oregon as a Ph.D. in Quantitative Research Methods in Education with specialization in Educational Data Science (with R). I also hold a master's degree in Organizational Leadership from Northeastern University and a bachelor's degree of Education Studies in Math from Hebei Normal University (Shijiazhuang, Hebei, China). I am currently a senior statistician at San Francisco Unified School District working on collecting, managing, analyzing, and reporting Multilingual Learners data, as well as disseminating and presenting analysis results to inform decision-makings on program placement, implementation, and evaluation.
+I hold a Ph.D. in Quantitative Research Methods in Education with a specialization in Educational Data Science from University of Oregon and a master's degree in Organizational Leadership from Northeastern University. Currently I am a senior statistician at San Francisco Unified School District and the lead of collecting, managing, analyzing, and reporting English Learners data. I also contribute to the disseminating and presenting analysis results to inform decision-makings on program placement, implementation, and evaluation throughout the school district.
 
 My research competencies include but are not limited to experimental and quasi-experimental research design, generalized linear models, multilevel modeling, structural equation modeling, advanced measurement and assessment methods, program evaluation, policy analysis, implementation science, meta-analysis, scholarly writing, and grant writing. 
 
 I have kept honing my research skills by applying my expertise to a variety of research projects. My research centers on the causal impacts of school-, teacher-, family-, and student-level factors on student performance as well as non-academic outcomes in K-12 education. My dissertation consists of two separate, causal inference studies investigating the impacts of teacher human capital characteristics, advisor-advisee relationships, and classroom teacher-student relationships on student performance and attitude. Another ongoing study is focusing on gender achievement gaps and causal evidence of teacher factors that bridge these gaps. Both independently and in collaboration with my co-authors, I have led several research projects and presented my papers in multiple national conferences such as [AERA](https://www.aera.net/Events-Meetings/Annual-Meeting), [AEFP](https://aefpweb.org/conference), and [SREE](https://www.sree.org/conferences). 
 
-Feel free to learn more about me via [my CV](./docs/Zhang_CV_2024.pdf) and reach out to me at congliclairezhang@gmail.com.
+Feel free to learn more about me via [my CV](./docs/Zhang_CV_2025.pdf) and reach out to me at congliclairezhang@gmail.com.
 
 Dissertation: [*Teacher Characteristics, Teacher-Student Relationships, and Student Academic Outcomes in Chinese Junior High Schools*](https://www.proquest.com/docview/2842761279)
 
